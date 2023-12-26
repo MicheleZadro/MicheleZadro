@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Michele 👋
+I’m currently studying Computer Engineering at Università degli Studi di Padova, with a focus on Artificial Intelligence and Robotics.
 <!--
 **MicheleZadro/MicheleZadro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
